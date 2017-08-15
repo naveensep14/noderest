@@ -1,0 +1,14 @@
+{
+  "name": "noderest",
+  "description": "Demo REST API with Node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "clarify": "^2.0.0",
+    "express": "3.x",
+    "trace": "^3.0.0"
+  },
+  "devDependencies": {
+    "mongoose": "^4.11.6"
+  }
+}
